@@ -197,15 +197,3 @@ pytest tests/ -v
 
 ---
 
-## 📝 License
-
-MIT License
-Free to use, modify, and distribute.
-
----
-
-## 👨‍💻 Author
-
-- Lasisi Ibrahim Pelumi
-- Full-Stack Engineer • WhatsApp Automation Expert
-- GitHub: https://github.com/ibrahimpelumi6142
